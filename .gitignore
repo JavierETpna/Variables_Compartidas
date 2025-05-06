@@ -1,0 +1,27 @@
+# Archivos temporales de Excel
+~$*.xls*
+*.tmp
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos ocultos del sistema operativo (Windows)
+Thumbs.db
+.DS_Store
+*.ini
+
+# Archivos de caché de Excel u Office
+*.lnk
+*.lock
+
+# Carpetas de sincronización de OneDrive/Google Drive (opcional)
+*.gdoc
+*.gsheet
+*.odrive
+.sync
+
+# Archivos de logs (si estás generando alguno)
+*.log
+
+/EDT y Análisis de Precios
