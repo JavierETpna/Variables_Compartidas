@@ -10,6 +10,7 @@
 Thumbs.db
 .DS_Store
 *.ini
+desktop.ini
 
 # Archivos de caché de Excel u Office
 *.lnk
